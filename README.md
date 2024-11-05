@@ -1,20 +1,13 @@
-<<<<<<< HEAD
-# game_apps_and_game_store
+# TUBES 1 Mobile Programming 
 
-A new Flutter project.
+Nama : Naufal Muhammad Afif
 
-## Getting Started
+NIM : 32602200111
 
-This project is a starting point for a Flutter application.
+Nama App : game_apps_and_game_store
 
-A few resources to get you started if this is your first Flutter project:
+Link design : https://dribbble.com/shots/23534429-Game-App-Gaming-Store-Website-Design
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Video Demo 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# GameAppsAndGameStore
->>>>>>> d373c68288e71caf66d9df984da9eaf75a11efeb
+[DEMO aplikasi GameAppsandGameStore](https://github.com/user-attachments/assets/a60bf585-eb6b-4c9f-a9ce-28e1250f94a0)
