@@ -6,7 +6,7 @@ NIM : 32602200111
 
 Nama App : game_apps_and_game_store
 
-Link design :[ https://dribbble.com/shots/23534429-Game-App-Gaming-Store-Website-Design](https://dribbble.com/shots/23534429-Game-App-Gaming-Store-Website-Design)
+Link design : https://dribbble.com/shots/23534429-Game-App-Gaming-Store-Website-Design
 
 # Video Demo 
 
